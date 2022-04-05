@@ -131,12 +131,12 @@
  	 	 	 	 	}
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "คุณพบกล่องยกเค้าที่ล็อคพร้อมปุ่มกดสีคุณควรจะสามารถปลดล็อกได้ด้วยลำดับสีที่ถูกต้อง",
+ 	 	 	 	 	"trans": "คุณพบกล่องยกเค้าที่ล็อกพร้อมปุ่มกดสีคุณควรจะสามารถปลดล็อกได้ด้วยลำดับสีที่ถูกต้อง",
  	 	 	 	 	"eng": "You found a locked loot box with color keypad, you should be able to unlock it with the correct sequence of colors."
  	 	 	 	},
  	 	 	 	"progress": {
  	 	 	 	 	"title": {
- 	 	 	 	 	 	"trans": "ปลดล็อคความคืบหน้า",
+ 	 	 	 	 	 	"trans": "ปลดล็อกความคืบหน้า",
  	 	 	 	 	 	"eng": "Unlock progress"
  	 	 	 	 	}
  	 	 	 	},
@@ -168,7 +168,7 @@
  	 	},
  	 	"supportUkraine": {
  	 	 	"description": {
- 	 	 	 	"trans": "คนของยูเครนรัสเซียและโลกทั้งโลกกำลังทุกข์ทรมานเพราะความทะเยอทะยานของชายคนหนึ่ง \\n ทำให้ความรักใช้ประโยชน์ไม่ใช่สงคราม",
+ 	 	 	 	"trans": "คนของยูเครน รัสเซียและโลกทั้งโลกกำลังทุกข์ทรมานเพราะความทะเยอทะยานของชายคนหนึ่ง \\n ทำให้ความรักใช้ประโยชน์ไม่ใช่สงคราม",
  	 	 	 	"eng": "People of Ukraine, Russia and the whole world are suffering because one man's ambition.\\n Make love exploit, not war."
  	 	 	}
  	 	},
@@ -270,7 +270,7 @@
  	 	},
  	 	"generalCaptcha": {
  	 	 	"story": {
- 	 	 	 	"trans": "คุณพบตู้เซฟล็อคเก่าดูเหมือนว่ามีการโพสต์ด้วยข้อความบางอย่างที่เขียนไว้",
+ 	 	 	 	"trans": "คุณพบตู้เซฟล็อกเก่าๆ ดูเหมือนว่ามีการโพสต์ด้วยข้อความบางอย่างที่เขียนไว้",
  	 	 	 	"eng": "You found an old locked safe box, there seems like a post-it with some text written on it."
  	 	 	},
  	 	 	"title": {
@@ -303,7 +303,7 @@
  	 	 	 	"eng": "Replying to ${playerName}"
  	 	 	},
  	 	 	"linksNotAllowed": {
- 	 	 	 	"trans": "ไม่อนุญาตลิงก์",
+ 	 	 	 	"trans": "ไม่อนุญาตให้ลิงก์",
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
@@ -311,7 +311,7 @@
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
- 	 	 	 	"trans": "โปรดอย่าส่งข้อความเดียวกันซ้ำ ๆ สแปมจะถูกปิดเสียง",
+ 	 	 	 	"trans": "โปรดอย่าส่งข้อความเดียวกันซ้ำ ๆ ผู้สแปมจะถูกปิดเสียง",
  	 	 	 	"eng": "Please do not send the same message repeatedly, spams will be muted."
  	 	 	},
  	 	 	"shortChatBlock": {
@@ -344,7 +344,7 @@
  	 	},
  	 	"chatPreview": {
  	 	 	"notConnected": {
- 	 	 	 	"trans": "ระบบการแชทไม่ได้เชื่อมต่อ",
+ 	 	 	 	"trans": "ไม่ได้เชื่อมต่อระบบการแชท",
  	 	 	 	"eng": "chat system not connected"
  	 	 	}
  	 	},
@@ -420,7 +420,7 @@
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "ลิงค์",
+ 	 	 	 	"trans": "ลิงก์",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
@@ -506,7 +506,7 @@
  	 	},
  	 	"list": {
  	 	 	"longPressToMultiSelect": {
- 	 	 	 	"trans": "กดค้างไว้เพื่อมัลติเลือก",
+ 	 	 	 	"trans": "กดค้างไว้เพื่อเลือกมากกว่าหนึ่ง",
  	 	 	 	"eng": "Long press to multi-select"
  	 	 	}
  	 	},
@@ -601,7 +601,7 @@
  	 	 	 	"eng": "Equip"
  	 	 	},
  	 	 	"cantEquip": {
- 	 	 	 	"trans": "ระดับของคุณต่ำเกินไปสำหรับไอเท็มนี้",
+ 	 	 	 	"trans": "level ของคุณต่ำเกินไปสำหรับไอเท็มนี้",
  	 	 	 	"eng": "Your level is too low for this item"
  	 	 	},
  	 	 	"unequip": {
@@ -613,11 +613,11 @@
  	 	 	 	"eng": "Use"
  	 	 	},
  	 	 	"unlock": {
- 	 	 	 	"trans": "ปลดล็อค",
+ 	 	 	 	"trans": "ปลดล็อก",
  	 	 	 	"eng": "Unlock"
  	 	 	},
  	 	 	"lock": {
- 	 	 	 	"trans": "ล็อค",
+ 	 	 	 	"trans": "ล็อก",
  	 	 	 	"eng": "Lock"
  	 	 	},
  	 	 	"lockDescription": {
@@ -709,7 +709,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"hiddenCount"
  	 	 	 	],
- 	 	 	 	"trans": "${hiddenCount} มีปฏิสัมพันธ์เพิ่มเติมสามารถปลดล็อคได้ที่ตำแหน่งนี้ระดับขึ้นเพื่อปลดล็อค",
+ 	 	 	 	"trans": "${hiddenCount} มีปฏิสัมพันธ์เพิ่มเติมสามารถปลดล็อกได้ที่ตำแหน่งนี้ระดับขึ้นเพื่อปลดล็อก",
  	 	 	 	"eng": "${hiddenCount} more interactables can be unlocked at this location, level up to unlock them."
  	 	 	},
  	 	 	"travel": {
@@ -719,7 +719,7 @@
  	 	},
  	 	"npc": {
  	 	 	"notUnlocked": {
- 	 	 	 	"trans": "สิ่งนี้ยังไม่ได้ปลดล็อค ลองยกระดับตัวละครของคุณสิ",
+ 	 	 	 	"trans": "สิ่งนี้ยังไม่ได้ปลดล็อก ลองยกระดับตัวละครของคุณสิ",
  	 	 	 	"eng": "This is not unlocked yet, try leveling up your character"
  	 	 	},
  	 	 	"repairItems": {
@@ -1076,7 +1076,7 @@
  	 	 	 	"eng": "Your account has been suspended automatically by the system due to Unusual Activity"
  	 	 	},
  	 	 	"content": {
- 	 	 	 	"trans": "หากคุณมีคำถามใด ๆ โปรดติดต่อ Dexter โดยตรงผ่าน Discord อย่างเป็นทางการ (ลิงก์สามารถพบได้ในเมนูลอยน้ำ -> ลิงก์) หรืออีเมลไปที่ ching.huang.dexter@gmail.com",
+ 	 	 	 	"trans": "หากคุณมีคำถามใด ๆ โปรดติดต่อ Dexter โดยตรงผ่าน Discord official (ลิงก์สามารถพบได้ในเมนูลอยน้ำ -> ลิงก์) หรืออีเมลไปที่ ching.huang.dexter@gmail.com",
  	 	 	 	"eng": "If you have any questions please feel free to contact Dexter directly via official Discord (Link can be found in Floating Menu -> Links) or email to ching.huang.dexter@gmail.com"
  	 	 	}
  	 	},
@@ -4541,29 +4541,29 @@
  	"recipe": {
  	 	"unlockLootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "ปลดล็อคที่เก็บของ",
+ 	 	 	 	"trans": "ปลดล็อกที่เก็บของ",
  	 	 	 	"eng": "Unlock Container"
  	 	 	}
  	 	},
  	 	"unlock": {
- 	 	 	"trans": "ปลดล็อค",
+ 	 	 	"trans": "ปลดล็อก",
  	 	 	"eng": "Unlock"
  	 	},
  	 	"unlockLootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "ปลดล็อคที่เก็บของ Rare",
+ 	 	 	 	"trans": "ปลดล็อกที่เก็บของ Rare",
  	 	 	 	"eng": "Unlock Rare Container"
  	 	 	}
  	 	},
  	 	"unlockLootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "ปลดล็อคที่เก็บของ Legendary",
+ 	 	 	 	"trans": "ปลดล็อกที่เก็บของ Legendary",
  	 	 	 	"eng": "Unlock Legendary Container"
  	 	 	}
  	 	},
  	 	"christmasGift": {
  	 	 	"name": {
- 	 	 	 	"trans": "ปลดล็อคกล่องลึกลับ",
+ 	 	 	 	"trans": "ปลดล็อกกล่องลึกลับ",
  	 	 	 	"eng": "Unlock Mysterious Container"
  	 	 	}
  	 	},
